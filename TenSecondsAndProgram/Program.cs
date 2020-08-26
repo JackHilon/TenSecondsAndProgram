@@ -32,7 +32,7 @@ namespace TenSecondsAndProgram
             {
                 Console.WriteLine("Hello again!!!!!!!!");
                 Console.WriteLine($"Start time: {temp.TimeOfDay}");
-                Console.WriteLine($"End time: {DateTime.Now.TimeOfDay}");
+                Console.WriteLine($"End time..: {DateTime.Now.TimeOfDay}");
             }
         }
     }
